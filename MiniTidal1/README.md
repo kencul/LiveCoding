@@ -68,3 +68,9 @@ s "{bd ~6 [~ sd*2]/2 sd ht/3 lt/5, [cp*2] (1, 633) ~ ~}",
 s "[hc? | ho?]*22?"
 ]
 ````
+
+
+stack[
+slow 2 $ s "stab*24?" # n (irand 25)  # pan (sine*0.5+0.25),
+s "808 ~ 808 ~ 808 ~ 808 ~ 808 ~ 808 ~ 808 ~ 808 ~" # n (irand 7)
+] # silence
