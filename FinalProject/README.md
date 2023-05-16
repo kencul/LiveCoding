@@ -104,3 +104,21 @@ msg.on('/s_new', (args) => {
 // We want properties to update automatically, so we need to use an arrow function.
 shape(() => foxdot.sample).out()
 ```
+
+## Performance
+To prepare for my performance, I prepared most of the code.
+
+I created 4 hydra patches, 2 from the midterm performance, and two based on Hydra examples from the website sandbox.
+All of them react to the audio through fft.
+
+I wanted these 4 patches to switch every so often automatically, so the visuals would be completely hands off, but my computer couldn't handle having 4 patches all processing at the same time. There may be a more computationally better way to create this effect, but I decided to change the patches manually instead.
+
+For my FoxDot patch, I prepared the chords and instruments. I played around with them for around 2 hours exploring all of the attributes and effects that I could use, and took note of which ones were most noticable and interesting. I then changed these attributes during the performance.
+
+My obs recording settings were off, so a quarter of the screen is cut off unfortunately.
+
+I enjoyed this class a lot! I saw programming for music from more of a programmer's perspective, and this class showed a musical approach to it, improvising and using more loose logic to create unpredictable results. I did a deep dive into SuperCollider to use in another class, as this class exposed me to it and I was curious to how it works. The project involved a VR instrument made in Unity, sending OSC messages to SuperCollider to play a synth and control parameters.
+
+Thank you for a great class! I leared a lot of valuable skills!
+
+-Ken
