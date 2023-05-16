@@ -1,9 +1,3 @@
-# Midterm Presentation - Ken Kobayashi
-
-## Bibliography
-
-“Documentation.” FoxDot, https://www.foxdot.org/docs/making-your-first-sounds/. 
-
-“MacOS: Tidal Cycles.” Tidal Cycles RSS, 29 Mar. 2023, https://tidalcycles.org/docs/getting-started/macos_install. 
-
-“Synthesizers: Tidal Cycles.” Tidal Cycles RSS, 29 Mar. 2023, https://tidalcycles.org/docs/reference/synthesizers. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:817830bc92eae46debd937b6ab76329fce6cb39f6a3457d6dd52736f5a1a1014
+size 383
